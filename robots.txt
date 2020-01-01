@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruifaemeif.1ccmarathon.com/sitemap.xml
